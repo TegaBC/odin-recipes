@@ -28,6 +28,7 @@ ol, ul{
 }
 
 a{
+    display: block;
     font-family: 'Courier New', Courier, monospace;
     font-size: 20px;
     color: black;
